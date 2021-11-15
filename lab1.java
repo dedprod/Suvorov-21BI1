@@ -2,7 +2,7 @@
 import java.io.IOException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
-public class HelloWorld {
+public class lab1 {
     public static void main(String[] args) {
         int a = 0;
         int f = 0;
